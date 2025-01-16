@@ -15,9 +15,5 @@ import { Country } from '../../interfaces/country';
 })
 export class RegionTableComponent {
   @Input()
-<<<<<<< HEAD
   public region:Country[]=[]
-=======
-  public region:Country[]=[];
->>>>>>> cf64b7d (subiendo cambios de countrie y region)
 }
